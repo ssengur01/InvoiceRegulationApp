@@ -25,3 +25,4 @@ namespace InvoiceRegulationApp.Domain
         public decimal DocAmount { get; }
     }
 }
+

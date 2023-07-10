@@ -15,6 +15,7 @@
         private int serialNumber;
 
 
+
         public DateTime DocDate
         {
             get { return docdate; }

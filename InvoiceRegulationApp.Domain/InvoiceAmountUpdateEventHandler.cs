@@ -8,3 +8,4 @@ namespace InvoiceRegulationApp.Domain
 {
     public delegate void InvoiceAmountUpdateEventHandler(Invoice invoice, InvoiceAmountUpdateEventArgs e);
 }
+

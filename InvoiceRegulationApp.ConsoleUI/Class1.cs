@@ -29,3 +29,4 @@ void Invoice_InvoiceDateUpdated(Invoice invoice, InvoiceDateUpdateEventArgs e)
 {
     Console.WriteLine($"{e.SerialNumber} numaralı faturanın tarihi güncellendi : {e.NewDate}");
 }
+
